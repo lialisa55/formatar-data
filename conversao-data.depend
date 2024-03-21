@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1711026472 source:c:\users\15522341\desktop\conversao-data\main.c
+	<stdio.h>
+	<stdlib.h>
+
